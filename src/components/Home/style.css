@@ -1,0 +1,22 @@
+.Home {
+  text-align: center;
+  margin-top: 8%;
+}
+
+.Home h1 {
+  color: #3B444F;
+  font-weight: 800;
+  font-size: 60px;
+  margin-bottom: 1%;
+}
+
+
+
+@media screen and (max-width: 540px) {
+  .Home h1 {
+    font-size: 40px !important;
+  }
+  .Home h2 {
+    font-size: 1.25rem !important;
+  }
+}
