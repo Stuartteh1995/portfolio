@@ -1,8 +1,8 @@
 {
-  "name": "my-react-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://sanjaybenu.git.io/my-react-portfolio",
+  "homepage": "https://github.com/Stuartteh1995/portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
